@@ -1,0 +1,38 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\skool\\Documents\\GitHub\\Gruppe6\\Greenroots\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D42DAC5-859B-4125-9B18-4D093503FF73}|Greenroots.csproj|c:\\users\\skool\\documents\\github\\gruppe6\\greenroots\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D42DAC5-859B-4125-9B18-4D093503FF73}|Greenroots.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\skool\\Documents\\GitHub\\Gruppe6\\Greenroots\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\skool\\Documents\\GitHub\\Gruppe6\\Greenroots\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAYwNEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "",
+              "WhenOpened": "2025-03-05T10:10:24.838Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

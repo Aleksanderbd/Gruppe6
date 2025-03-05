@@ -1,0 +1,15 @@
+C:\Users\skool\Documents\GitHub\Gruppe6\Greenroots\obj\Debug\net8.0\Greenroots.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skool\Documents\GitHub\Gruppe6\Greenroots\obj\Debug\net8.0\Greenroots.AssemblyInfoInputs.cache
+C:\Users\skool\Documents\GitHub\Gruppe6\Greenroots\obj\Debug\net8.0\Greenroots.AssemblyInfo.cs
+C:\Users\skool\Documents\GitHub\Gruppe6\Greenroots\obj\Debug\net8.0\Greenroots.csproj.CoreCompileInputs.cache
+C:\Users\skool\Documents\GitHub\Gruppe6\Greenroots\obj\Debug\net8.0\Greenroots.sourcelink.json
+C:\Users\skool\Documents\GitHub\Gruppe6\Greenroots\bin\Debug\net8.0\Greenroots.exe
+C:\Users\skool\Documents\GitHub\Gruppe6\Greenroots\bin\Debug\net8.0\Greenroots.deps.json
+C:\Users\skool\Documents\GitHub\Gruppe6\Greenroots\bin\Debug\net8.0\Greenroots.runtimeconfig.json
+C:\Users\skool\Documents\GitHub\Gruppe6\Greenroots\bin\Debug\net8.0\Greenroots.dll
+C:\Users\skool\Documents\GitHub\Gruppe6\Greenroots\bin\Debug\net8.0\Greenroots.pdb
+C:\Users\skool\Documents\GitHub\Gruppe6\Greenroots\obj\Debug\net8.0\Greenroots.dll
+C:\Users\skool\Documents\GitHub\Gruppe6\Greenroots\obj\Debug\net8.0\refint\Greenroots.dll
+C:\Users\skool\Documents\GitHub\Gruppe6\Greenroots\obj\Debug\net8.0\Greenroots.pdb
+C:\Users\skool\Documents\GitHub\Gruppe6\Greenroots\obj\Debug\net8.0\Greenroots.genruntimeconfig.cache
+C:\Users\skool\Documents\GitHub\Gruppe6\Greenroots\obj\Debug\net8.0\ref\Greenroots.dll
