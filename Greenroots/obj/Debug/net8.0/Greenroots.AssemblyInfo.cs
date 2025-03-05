@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Greenroots")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d666cea87d626d681595ff5667379ec36f5b7117")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1bd864e4287ebf20b6a16c3337f042f1c4bb6c8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Greenroots")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Greenroots")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
